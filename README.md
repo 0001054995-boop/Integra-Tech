@@ -1,2 +1,2 @@
 # Integra-Tech
-Projeto institucional e desenvolvimento da Integra Tech
+Projeto institucional (TCC) e desenvolvimento da Integra Tech
